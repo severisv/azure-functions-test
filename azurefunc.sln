@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HttpTriggerCore", "HttpTriggerCore.fsproj", "{F485266F-83B0-42A1-9453-56A6114D06A9}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HttpTriggerCore", "happybever\HttpTriggerCore.fsproj", "{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,17 +18,17 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Debug|x64.ActiveCfg = Debug|x64
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Debug|x64.Build.0 = Debug|x64
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Debug|x86.ActiveCfg = Debug|x86
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Debug|x86.Build.0 = Debug|x86
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Release|x64.ActiveCfg = Release|x64
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Release|x64.Build.0 = Release|x64
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Release|x86.ActiveCfg = Release|x86
-		{F485266F-83B0-42A1-9453-56A6114D06A9}.Release|x86.Build.0 = Release|x86
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Debug|x64.ActiveCfg = Debug|x64
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Debug|x64.Build.0 = Debug|x64
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Debug|x86.ActiveCfg = Debug|x86
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Debug|x86.Build.0 = Debug|x86
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Release|x64.ActiveCfg = Release|x64
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Release|x64.Build.0 = Release|x64
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Release|x86.ActiveCfg = Release|x86
+		{D21C6BB5-5EC1-4603-9DA2-DFE91FC778AB}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
